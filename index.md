@@ -1,5 +1,5 @@
 ---
-layout:CV
+layout: CV
 title: Vincent Hamoniaux
 ---
 # Vincent HAMONIAUX
