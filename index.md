@@ -3,14 +3,13 @@ layout:CV
 title: Vincent Hamoniaux
 ---
 # Vincent HAMONIAUX
-Ingénieur système logiciel aéronautique et spatial
+__Ingénieur système logiciel aéronautique et spatial__
 
-Tél 06 64 17 19 29 | 
 <div id="webaddress">
 <a href="vinceham@gmail.com">vinceham@gmail.com</a>
 | <a href="https://fr.linkedin.com/in/vincent-hamoniaux-a54255112">LinkedIn</a>
 </div>
-
+Tél 06 64 17 19 29 | Les Cabanes 31480 CADOURS | Marié, 3 enfants
 
 ## Actuellement
 
@@ -44,54 +43,54 @@ __Environnement et outils__
 ## Expériences professionnelles
 
 `2018-Aujourd'hui`
-__SII pour THALES ALENIA SPACE__
+SII pour __THALES ALENIA SPACE__, Toulouse 31
 
-- Projet: projet CCSL de développement du produit CROSSFIT de déploiement automatique d'infrastructure sécurisée
-  - participation à la spécification en co-ingénierie avec TAS
-  - ex-situ au forfait: coordination du développement, développement des fonctions de déploiement de la configuration (ansible + python)
+Projet: projet CCSL de développement du produit CROSSFIT de __déploiement automatique d'infrastructure sécurisée__
+  - participation à la spécification en co-ingénierie avec le client et maquettage pour choix des COTS
+  - ex-situ au forfait, coordination du développement, développement des fonctions de déploiement de la configuration (ansible + python)
   - support validation usine et training utilisateurs
 
 `2016-2017`
-__SII pour THALES ALENIA SPACE__
+SII pour __THALES ALENIA SPACE__, Toulouse 31
 
-- Projet: projet GSOP de développement du Time Service Provider pour Galileo
+Projet: projet GSOP de __développement du Time Service Provider pour Galileo__
   - définition de l'architecture système (design & interface) et coordination des activités infrastructure et développement logiciel réalisées ex-situ au forfait
   - mise en place du plan de test, suivi validation usine et intégration dans les Galileo Control Centers (Fucino et Oberpfaffenhofen)
 
 `2015-2016`
-__SII pour THALES ALENIA SPACE__
+SII pour __THALES ALENIA SPACE__, Toulouse 31
 
-- Projet: projet européen H2020 de développement d'un démonstrateur de services de temps basé sur Galileo
+Projet: projet européen H2020 DEMETRA - __développement d'un démonstrateur de services de temps basé sur Galileo__
   - responsable Core Infrastructure: définition de l'architecture système (design & interface), coordination des développements réalisés par les partenaires, suivi de l'intégration du démonstrateur et validation pour l'acceptance système par la GSA
   - promotion du projet sur [facebook](https://www.facebook.com/demetratime), [android store](https://play.google.com/store/apps/details?id=eu.demetratime.demetra) et [Vimeo](https://vimeo.com/185464126)
 
 `2008-2014`
-__SII pour AIRBUS, Toulouse 31__
+__SII pour AIRBUS__, Toulouse 31
 
-- Projet: Développement et certification du système ATA27-00 commandes de col et pilote automatique pour l'A350XWB
+Projet: Développement du système __ATA27-00 Commandes de vol et Pilote Automatique__ pour l'A350XWB
   - coordination V&V transverse: mise en place stratégie de test et KPI, suivi avancement hebdo et écriture du V&V Summary système
   - validation AFS: automatisation et exécution des procédures de tests (OCASIME), écriture du rapport de tests et des faits techniques associés (JTE)
   - point focal ICD: définition des interfaces fonctionnelles multi-systèmes et calculateurs, développement d'outils de contrôle (VBA)
 
 `2007-2008`
-__B2i pour SAGEM Défense, Eragny 95__
+B2i pour __SAGEM Défense__, Eragny 95__
 
-- Projet: développement logiciel embarqué des GADIRS pour l’A400M
+Projet: développement logiciel embarqué des GADIRS pour l’A400M
   - spécification des surveillances fonctions inertielles (Doors)
   - suivi et support sur les phases avales (spécification logiciel détaillée, codage C++)
   - rédaction du dossier de justification de l’architecture fonctionnelle du logiciel
 
 `2006-2007`
-__B2i pour MESSIER BUGATTI, Vélizy 78__
+B2i pour __MESSIER BUGATTI__, Vélizy 78
 
-- Projet: Développement logiciel embarqué en SAO et V&V du système BSCS ATA32 pour les A320, A340 500/600 et 787 
-  - application des MOD sur les logiques SAO, et rédaction des documents de traçabilité
+Projet: développement logiciel embarqué en SAO et V&V du système ATA32 BSCS pour les A320, A340 500/600 et 787 
+  - application des MOD sur les logiques SAO, rédaction des documents de traçabilité
   - Mise en place et exécution des essais sur baie de simulation, analyse et rédaction des rapports d’essais
 
 `2005-2006`
-__B2i pour RENAULT, Lardy 91 et Valladolid Esp__
+__B2i pour RENAULT__, Lardy 91 et Valladolid Esp
 
-- Projet: développement du contrôle moteur sur K9K DDS Step1
+Projet: développement du contrôle moteur sur K9K DDS Step1
   - intégration des spécifications métier, validation des évolutions implémentées par le fournisseur, responsabilité des calibrations de diagnostic
   - industrialisation des logiciels et assistance pour la MAP, les usines et l’après-vente en développement et en série
   - en Espagne, suivi de l’externalisation du projet et formation des nouveaux arrivants
@@ -100,13 +99,13 @@ __B2i pour RENAULT, Lardy 91 et Valladolid Esp__
 ## Formation
 
 `2001-2004`
-__IPSA, Kremlin-Bicêtre 94__: diplôme d'ingénieur Expert en ingénierie des systèmes aéronautiques et spatiaux, spécialité Mécanique Energétique
+__IPSA__, Kremlin-Bicêtre 94: diplôme d'ingénieur Expert en ingénierie des systèmes aéronautiques et spatiaux, spécialité Mécanique Energétique
 
 `1999-2001`
-__IUT Génie Thermique et Energie, Ville d’Avray 92__
+__IUT Génie Thermique et Energie__, Ville d’Avray 92
 
 `1999`
-__Lycée Notre Dame des Marais, Fougères 35__: Baccalauréat S, mention AB
+Lycée Notre Dame des Marais, Fougères 35: Baccalauréat S, mention AB
 
 
 ## Centres d'intérêt
@@ -114,7 +113,6 @@ __Lycée Notre Dame des Marais, Fougères 35__: Baccalauréat S, mention AB
 - Passe-temps: associations, jardinage, informatique (internet, linux, OSS, domotique), aéromodélisme (avion / hélico), lecture (romans, SF),
 - Sciences: astronomie, environnement et récupération de l’énergie
 - Sport: course à pied, VTT.
-
 
 <!-- ### Footer
 
