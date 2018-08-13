@@ -8,7 +8,7 @@ __Ingénieur système logiciel aéronautique et spatial__
 
 
 <div id="webaddress">
-<a href="vinceham@gmail.com">vinceham@gmail.com</a>
+<a href="mailto:vinceham@gmail.com">vinceham@gmail.com</a>
 | <a href="https://fr.linkedin.com/in/vincent-hamoniaux-a54255112">LinkedIn</a>
 </div>
  :telephone_receiver: 06 64 17 19 29 | Les Cabanes 31480 CADOURS | Marié, 3 enfants
@@ -26,17 +26,17 @@ __Ingénieur système logiciel aéronautique et spatial__
 ---
 
 __Cycle en V__        | __Coordination__           | __Environnement et outils__ 
- ------------- | ------------- | --------- 
- formalisation besoin utilisataur, gestion des exigences système/composant, traçabilité vers les tests, gestion des anomalies  | Gestion de projet et coordination d'équipe (<10 personnes) | planning et spécification: suite office, Visio, MS project, JIRA, redmine, Doors 
- design systèmes complexes, définition des interfaces externes et internes, validation et automatisation des essais | planification d'activités et gestion des priorités  |  OS, virtualisation et devops: linux (debian & centos like), ansible, vmware, proxmox, git et gitlab  
+ ------------- | ------------- | ------------- 
+ formalisation besoin utilisataur, gestion des exigences système/composant, traçabilité vers les tests, gestion des anomalies  | planning projet, définition des activités et des responsabilités | suite office, MS project, Doors, Gitlab, redmine, JIRA 
+ design systèmes complexes, définition des interfaces externes et internes, validation et automatisation des essais | coordination d'équipe (<10 personnes), gestion des priorités |  Visio, OS, virtualisation et devops: linux (debian & centos like), ansible, vmware, proxmox, git et gitlab  
  support au développement logiciels embarqués et déploiement d'infrastructures virtualisées |  mise en place des KPI et outils de suivi pour la remontée d'information      | programmation: VBA excel (avancé), shell, python et java (intermédiaire)
-  | | | langues: anglais (confirmé), espagnol (confirmé) 
 
+__Langues:__ français (maternel), anglais (confirmé), espagnol (confirmé) 
 
 ## Expériences professionnelles
 ---
 `2018-Aujourd'hui`
-SII pour __THALES ALENIA SPACE__, Toulouse 31
+__SII pour THALES ALENIA SPACE__, Toulouse 31
 
 Projet: projet CCSL de développement du produit CROSSFIT de __déploiement automatique d'infrastructure sécurisée__
   - participation à la spécification en co-ingénierie avec le client et maquettage pour choix des COTS
@@ -44,14 +44,14 @@ Projet: projet CCSL de développement du produit CROSSFIT de __déploiement auto
   - support validation usine et training utilisateurs
 
 `2016-2017`
-SII pour __THALES ALENIA SPACE__, Toulouse 31
+__SII pour THALES ALENIA SPACE__, Toulouse 31
 
 Projet: projet GSOP de __développement du Time Service Provider pour Galileo__
   - définition de l'architecture système (design & interface) et coordination des activités infrastructure et développement logiciel réalisées ex-situ au forfait
   - mise en place du plan de test, suivi validation usine et intégration dans les Galileo Control Centers (Fucino et Oberpfaffenhofen)
 
 `2015-2016`
-SII pour __THALES ALENIA SPACE__, Toulouse 31
+__SII pour THALES ALENIA SPACE__, Toulouse 31
 
 Projet: projet européen H2020 DEMETRA - __développement d'un démonstrateur de services de temps basé sur Galileo__
   - responsable Core Infrastructure: définition de l'architecture système (design & interface), coordination des développements réalisés par les partenaires, suivi de l'intégration du démonstrateur et validation pour l'acceptance système par la GSA
@@ -66,7 +66,7 @@ Projet: Développement du système __ATA27-00 Commandes de vol et Pilote Automat
   - point focal ICD: définition des interfaces fonctionnelles multi-systèmes et calculateurs, développement d'outils de contrôle (VBA)
 
 `2007-2008`
-B2i pour __SAGEM Défense__, Eragny 95
+__B2i pour SAGEM Défense__, Eragny 95
 
 Projet: développement logiciel embarqué des GADIRS pour l’A400M
   - spécification des surveillances fonctions inertielles (Doors)
@@ -74,7 +74,7 @@ Projet: développement logiciel embarqué des GADIRS pour l’A400M
   - rédaction du dossier de justification de l’architecture fonctionnelle du logiciel
 
 `2006-2007`
-B2i pour __MESSIER BUGATTI__, Vélizy 78
+__B2i pour MESSIER BUGATTI__, Vélizy 78
 
 Projet: développement logiciel embarqué en SAO et V&V du système ATA32 BSCS pour les A320, A340 500/600 et 787 
   - application des MOD sur les logiques SAO, rédaction des documents de traçabilité
@@ -88,10 +88,8 @@ Projet: développement du contrôle moteur sur K9K DDS Step1
   - industrialisation des logiciels et assistance pour la MAP, les usines et l’après-vente en développement et en série
   - en Espagne, suivi de l’externalisation du projet et formation des nouveaux arrivants
 
-
 ## Formation
 ---
-
 `2001-2004`
 __IPSA__, Kremlin-Bicêtre 94: diplôme d'ingénieur Expert en ingénierie des systèmes aéronautiques et spatiaux, spécialité Mécanique Energétique
 
@@ -100,7 +98,6 @@ __IUT Génie Thermique et Energie__, Ville d’Avray 92
 
 `1999`
 Lycée Notre Dame des Marais, Fougères 35: Baccalauréat S, mention AB
-
 
 ## Centres d'intérêt
 ---
