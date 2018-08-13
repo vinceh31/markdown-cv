@@ -63,6 +63,7 @@ body {
 p {
 	position: relative;
 	left: 2%;
+	right: 2%;
 	margin-bottom: 0.1em;
 	margin-right: 0;
 	width: 90%;
@@ -100,6 +101,7 @@ li {
 	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
+	font-size: 0.9em;
 	/*color: #777;*/
 }
 
@@ -128,24 +130,30 @@ h1+p {
 }
 
 h2 {
-	font-size: 1.1em;
-	color: rgb(53, 76, 139);
-	margin-top: 3em;
+	font-size: 1.5em;
+	font-style: italic;
 	position: relative;
-
-	text-align: left;
-	left: 2%;
+	text-align: center;
 }
 
 h3 {
-	font-size: 1em;
+	font-size: 1.1em;
+	color: rgb(53, 76, 139);
 	position: relative;
-
-	text-align: center;
-	width: 75%;
+	text-align: left;
+	left: 2%;
+	margin-right: 2%;
 }
 
 h4 {
+	font-size: 1em;
+	position: relative;
+	text-align: left;
+	left: 2%;
+	width: 75%;
+}
+
+h5 {
 	font-size: 100%;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
@@ -153,8 +161,17 @@ h4 {
 	margin-left: 1em;
 }
 
+perso {
+	position: relative;
+	text-align: center;
+	width: 80%;
+	color: rgb(70, 50, 50);
+	font-size: 80%;
+}
+
 a {
 	color: inherit;
+	text-align: center;
 	/*text-decoration:none*/
 }
 
@@ -173,6 +190,10 @@ webaddress {
 
 webaddress a {
 	text-decoration: none;
+}
+
+a:hover {
+	color:#39f
 }
 
 em {
