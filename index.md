@@ -4,44 +4,37 @@ title: Vincent Hamoniaux
 ---
 # Vincent HAMONIAUX
 __Ingénieur système logiciel aéronautique et spatial__
+---
+
 
 <div id="webaddress">
 <a href="vinceham@gmail.com">vinceham@gmail.com</a>
 | <a href="https://fr.linkedin.com/in/vincent-hamoniaux-a54255112">LinkedIn</a>
 </div>
-Tél 06 64 17 19 29 | Les Cabanes 31480 CADOURS | Marié, 3 enfants
+ :telephone_receiver: 06 64 17 19 29 | Les Cabanes 31480 CADOURS | Marié, 3 enfants
 
-## Actuellement
 
-En poste chez SII pour Thales Alenia Space, disponible sous 3 mois
+### Actuellement : En poste chez SII pour Thales Alenia Space, disponible sous 3 mois
 
 ##  Personnalité
+---
 - adaptabilité et curiosité technique
 - sens du service, facilitateur
 - goût du travail en équipe
 
 ## Compétences
-__Cycle en V__
+---
 
-- formalisation besoin utilisataur, gestion des exigences système/composant, traçabilité vers les tests, gestion des anomalies
-- design systèmes complexes, définition des interfaces externes et internes, validation et automatisation des essais
-- support au développement logiciels embarqués et déploiement d'infrastructures virtualisées
+__Cycle en V__        | __Coordination__           | __Environnement et outils__ 
+ ------------- | ------------- | --------- 
+ formalisation besoin utilisataur, gestion des exigences système/composant, traçabilité vers les tests, gestion des anomalies  | Gestion de projet et coordination d'équipe (<10 personnes) | planning et spécification: suite office, Visio, MS project, JIRA, redmine, Doors 
+ design systèmes complexes, définition des interfaces externes et internes, validation et automatisation des essais | planification d'activités et gestion des priorités  |  OS, virtualisation et devops: linux (debian & centos like), ansible, vmware, proxmox, git et gitlab  
+ support au développement logiciels embarqués et déploiement d'infrastructures virtualisées |  mise en place des KPI et outils de suivi pour la remontée d'information      | programmation: VBA excel (avancé), shell, python et java (intermédiaire)
+  | | | langues: anglais (confirmé), espagnol (confirmé) 
 
-__Coordination__
-
-- coordination d'équipe (<10 personnes)
-- planification d'activités et gestion des priorités
-- mise en place des KPI et outils de suivi pour la remontée d'information
-
-__Environnement et outils__
-
-- planning et spécification: suite office, Visio, MS project, JIRA, redmine, Doors
-- OS, virtualisation et devops: linux (debian & centos like), ansible, vmware, proxmox, git et gitlab
-- programmation: VBA excel (avancé), shell, python et java (intermédiaire)
-- langues: anglais (confirmé), espagnol (confirmé)
 
 ## Expériences professionnelles
-
+---
 `2018-Aujourd'hui`
 SII pour __THALES ALENIA SPACE__, Toulouse 31
 
@@ -73,7 +66,7 @@ Projet: Développement du système __ATA27-00 Commandes de vol et Pilote Automat
   - point focal ICD: définition des interfaces fonctionnelles multi-systèmes et calculateurs, développement d'outils de contrôle (VBA)
 
 `2007-2008`
-B2i pour __SAGEM Défense__, Eragny 95__
+B2i pour __SAGEM Défense__, Eragny 95
 
 Projet: développement logiciel embarqué des GADIRS pour l’A400M
   - spécification des surveillances fonctions inertielles (Doors)
@@ -97,6 +90,7 @@ Projet: développement du contrôle moteur sur K9K DDS Step1
 
 
 ## Formation
+---
 
 `2001-2004`
 __IPSA__, Kremlin-Bicêtre 94: diplôme d'ingénieur Expert en ingénierie des systèmes aéronautiques et spatiaux, spécialité Mécanique Energétique
@@ -109,10 +103,12 @@ Lycée Notre Dame des Marais, Fougères 35: Baccalauréat S, mention AB
 
 
 ## Centres d'intérêt
+---
 
-- Passe-temps: associations, jardinage, informatique (internet, linux, OSS, domotique), aéromodélisme (avion / hélico), lecture (romans, SF),
-- Sciences: astronomie, environnement et récupération de l’énergie
-- Sport: course à pied, VTT.
+Passe-temps | associations, jardinage, informatique (internet, linux, OSS, domotique), aéromodélisme (avion / hélico), lecture (romans, SF)
+ ------------- | ------------- | --------- 
+Sciences | astronomie, environnement et récupération de l’énergie
+Sport | course à pied, VTT.
 
 <!-- ### Footer
 
