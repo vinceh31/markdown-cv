@@ -16,14 +16,20 @@ Ingénieur système logiciel aéronautique et spatial
 En poste chez SII pour Thales Alenia Space, disponible sous 3 mois<>
 
 ### Personnalité
-- Adaptabilité, curiosité technique
-- sens du service
+- adaptabilité et curiosité technique
 - goût du travail en équipe
+- sens du service, facilitateur
 
 ### Compétences
-
-- développement logiciel en contexte DO
-- Cycle en V, gestion exigences et traçabilité, gestion des anomalies
+__Cycle en V__
+- formalisation besoin utilisataur, gestion des exigences système/composant, traçabilité vers les tests, gestion des anomalies
+- design systèmes complexes, définition des interfaces externes et internes, validation et automatisation des essais
+- support au développement logiciels embarqués et déploiement d'infrastructures virtualisées
+__Coordination__
+- coordination d'équipe (~8 personnes)
+- planification d'activités et gestion des priorités
+- mise en place des KPI et outils de suivi pour la remontée d'information
+__Environnement et outils__
 - OS, virtualisation et devops: linux (debian & centos like), ansible, vmware, proxmox, git et gitlab
 - programmation: VBA excel (avancé), shell, python et java (intermédiaire)
 - bureautique: suite office, Visio, MS project, JIRA, redmine
@@ -31,7 +37,7 @@ En poste chez SII pour Thales Alenia Space, disponible sous 3 mois<>
 
 ## Expériences professionnelles
 
-'2018-Aujourd'hui'
+`2018-Aujourd'hui`
 __SII pour THALES ALENIA SPACE__
 Projet: projet CCSL de développement du produit CROSSFIT de déploiement automatique d'infrastructure sécurisée
 Missions:
@@ -40,18 +46,18 @@ Missions:
 - développement des fonctions de déploiement de la configuration (ansible + python)
 - support validation usine et training utilisateurs
 
-'2016-2017'
+`2016-2017`
 __SII pour THALES ALENIA SPACE__
 Projet: projet GSOP de développement du Time Service Provider pour Galileo
 Missions:
 - définition de l'architecture système (design & interface) et coordination des activités infrastructure et développement logiciel réalisées ex-situ au forfait
 - mise en place du plan de test, suivi validation usine et intégration dans les Galileo Control Centers (Fucino et Oberpfaffenhofen)
 
-'2015-2016'
+`2015-2016`
 __SII pour THALES ALENIA SPACE__
 Projet: projet européen H2020 de développement d'un démonstrateur de services de temps basé sur Galileo
-Missions: responsable Core Infrastructure
-- définition de l'architecture système (design & interface), coordination des développements réalisés par les partenaires, suivi de l'intégration et validation pour l'acceptance système
+Missions: 
+- responsable Core Infrastructure: définition de l'architecture système (design & interface), coordination des développements réalisés par les partenaires, suivi de l'intégration et validation pour l'acceptance système
 - promotion du projet sur [facebook](https://www.facebook.com/demetratime), [android store](https://play.google.com/store/apps/details?id=eu.demetratime.demetra) et [Vimeo](https://vimeo.com/185464126)
 
 `2008-2014`
@@ -62,7 +68,7 @@ Missions:
 - validation Pilote Automatique (ATA22): sur plateforme OCASIME, validation des exigences, automatisation et exécution des procédures de tests, écriture du rapport de tests et des faits techniques (JTE) associés
 - point focal ICD: gestion et suivi des interfaces fonctionnelles entre les différents calculateurs FCGS et les autres systèmes avion. Développement des outils de contrôle de la mixabilité inter-équipements et intégration dans le cycle de développement software associé.
  
-'2007-2008'
+`2007-2008`
 __B2i pour SAGEM Défense, Eragny 95__
 Projet: développement logiciel embarqué des GADIRS pour l’A400M
 Missions:
@@ -70,22 +76,20 @@ Missions:
 - suivi et support sur les phases avales (spécification détaillée, codage)
 - rédaction du dossier de justification de l’architecture fonctionnelle du logiciel
  
-'2006-2007'
+`2006-2007`
 __B2i pour MESSIER BUGATTI, Vélizy 78__
 Projet: Développement logiciel embarqué en SAO et V&V du système ATA32 pour les A320, A340 500/600 et 787 
 Missions:
 - application des MOD sur les logiques SAO, et rédaction des documents de traçabilité.
 - rédaction des scénarii de tests de vérification pour couverture des exigences système, déroulement des tests sur baie de simulation, analyse et rédaction des rapports d’essais en vue de la certification.
  
-'2005-2006'
+`2005-2006`
 __B2i pour RENAULT, Lardy 91 et Valladolid Esp__
 Projet: développement du contrôle moteur sur K9K DDS Step1
 Missions:
 - intégration des spécifications métier, validation des évolutions implémentées par le fournisseur, responsabilité des calibrations de diagnostic
 - assistance pour la MAP, les usines et l’après-vente en développement et en série, industrialisation des logiciels pour fabrication des véhicules de série
 - en Espagne, suivi de l’externalisation du projet et formation des nouveaux arrivants
-
-H2020 DEMETRA project,  -->
 
 
 ## Formation
