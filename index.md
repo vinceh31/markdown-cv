@@ -38,7 +38,7 @@ __Langues:__ français (maternel), anglais (confirmé), espagnol (confirmé)
 ---
 ### Expériences professionnelles
 
-`12/2018 - Aujourd'hui`
+`12/2017 - Aujourd'hui`
 __SII pour THALES ALENIA SPACE__, Toulouse 31, forfait ex-situ
 
 Projet CCSL de développement du produit CROSSFIT de __déploiement automatique d'infrastructure sécurisée__
@@ -46,7 +46,7 @@ Projet CCSL de développement du produit CROSSFIT de __déploiement automatique 
   - coordination du développement (6 pers), développement des fonctions de déploiement de la configuration (ansible + python)
   - support validation usine et training utilisateurs
 
-`01/2016 - 11/2017`
+`01/2017 - 11/2017`
 __SII pour THALES ALENIA SPACE__, Toulouse 31, forfait ex-situ
 
 Projet GSOP de __développement du Time Service Provider pour Galileo__
@@ -61,7 +61,7 @@ Projet européen H2020 DEMETRA - __développement d'un démonstrateur de service
   - responsable Core Infrastructure: définition de l'architecture système (design & interface), coordination des développements réalisés par les partenaires, suivi de l'intégration du démonstrateur et validation pour l'acceptance système par la GSA
   - promotion du projet sur [facebook](https://www.facebook.com/demetratime), développement [appli android](https://play.google.com/store/apps/details?id=eu.demetratime.demetra) et [Vimeo](https://vimeo.com/185464126)
 
-`04/2008 - 11/2014`
+`04/2008 - 12/2014`
 __SII pour AIRBUS__, Toulouse 31, plateau in-situ
 
 Développement du système __ATA27-00 Commandes de vol et Pilote Automatique__ pour l'A350XWB
