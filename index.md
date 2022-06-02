@@ -30,13 +30,28 @@ __Cycle en V__        | __Coordination__   | __Environnement et outils__
  ------------- | ------------- | ------------- 
  formalisation besoin utilisateur, écriture des exigences système/composant | planning projet, définition des activités et des responsabilités inter-équipes, mise en place du PMP | suite office, MS project, Ganttproject 
  design systèmes complexes, définition des interfaces externes et internes, traçabilité LLR et vers les tests | Préparation revues design préliminaire et critique (PDR, CDR) |  Visio, Doors, powerpoint
- Participation au déploiement d'infrastructures virtualisées et développement logiciels | définition des sprints, coordination d'équipe (<10 personnes), priorisation des tâches  | OS, virtualisation (linux debian & centos like, vmware, proxmox), devops (git, gitlab, ansible),  programmation (VBA excel - avancé, shell, python et java - intermédiaire)
+ Coordination développement d'infrastructures et applicatifs | définition des sprints, coordination d'équipe (<10 personnes), priorisation des tâches  | OS, virtualisation (linux debian & redhat, vmware, proxmox), devops (git, gitlab, ansible),  programmation (VBA excel - avancé, shell, python - intermédiaire)
 Rédaction plan de test, validation produit et automatisation des essais, gestion des anomalies | mise en place des KPI et outils de suivi pour la remontée d'information | redmine, JIRA
 
-__Langues:__ français (maternel), anglais (confirmé), espagnol (confirmé) 
+__Langues:__ français (maternel), anglais (confirmé), espagnol (confirmé)
 
 ---
 ### Expériences professionnelles
+
+`03/2019 - Aujourd'hui`
+__SII pour THALES ALENIA SPACE__, Toulouse 31, AMOA ex-situ
+
+__Responsabilité technique (MCO et évolutions V2) du TSP__, Time Service Provider, fournissant la synchronisation du temps UTC au segment de mission GMS
+  - Rédaction des propositions techniques d'évolution
+  - Mise à jour de la spécification et du design de l'infrastructure
+  - Coordination des activités de développement réalisés par les partenaires (SII, AIZOON)
+  - Maintenance L2 = Gestion des anomalies (Anomaly Report) remontées par les opérateurs sur site
+  - Participation aux ARB (Anomaly Report Board) avec le client SPO+EUSPA (ex GSA)+TPZ
+  - Analyse des AR au niveau 2 (L2)
+  - Cascade vers les partenaires INRIM/AIZOON/SII pour analyse niveau 3 (maintenance L3)
+  - Coordination des correctifs à apporter (du dév jusqu'au déploiement/application patch sur site)
+  - Mise à jour et livraison du Progress Report mensuel (statut contractuel, KPI, gestion de configuration des
+éléments TSP)
 
 `12/2017 - Aujourd'hui`
 __SII pour THALES ALENIA SPACE__, Toulouse 31, forfait ex-situ
@@ -49,7 +64,7 @@ Projet CCSL de développement du produit CROSSFIT de __déploiement automatique 
 `01/2017 - 11/2017`
 __SII pour THALES ALENIA SPACE__, Toulouse 31, forfait ex-situ
 
-Projet GSOP de __développement du Time Service Provider pour Galileo__
+Projet GSOP de __développement du Time Service Provider TSP V1 pour Galileo__
   - définition de l'architecture système (design & interface) en interaction avec les équipes de dév
   - coordination des activités de développement composant et infrastructure (9 pers)
   - Préparation recette usine, suivi validation perfos et intégration dans les Galileo Control Centers (Fucino et Oberpfaffenhofen)
