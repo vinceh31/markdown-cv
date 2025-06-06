@@ -135,7 +135,8 @@ __Sciences:__ astrophysique, environnement et récupération de l’énergie
 
 __Sport:__ vélo gravel, course à pied.
 
-__Associations:__ 
+__Associations:__
+
 `2020-2025` conseiller municipal à Cadours  
 `2015-2017` trésorier au sein de la crèche Nid d'anges, Cadours
 
