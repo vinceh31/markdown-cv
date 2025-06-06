@@ -29,7 +29,7 @@ Tél: 06 64 17 19 29 | Les Cabanes 31480 CADOURS | Marié, 2 enfants
 __Cycle en V__        | __Coordination__   | __Environnement et outils__ 
  ------------- | ------------- | ------------- 
  formalisation besoin utilisateur, écriture des exigences système/composant | planning projet, définition des activités et des responsabilités inter-équipes, mise en place du PMP | suite office, MS project, Ganttproject 
- design en MBSE de systèmes complexes, définition des interfaces externes et internes, traçabilité LLR, fonctions, tests | Préparation revues design préliminaire et critique (PDR, CDR) |  Visio, Doors, powerpoint
+ design en MBSE de systèmes complexes, définition des interfaces externes et internes, traçabilité LLR, fonctions, tests | Préparation revues projet (PDR, CDR, FQR, SQR, SAR) |  Visio, Doors, powerpoint
  Coordination développement d'infrastructures et applicatifs | définition des sprints, coordination d'équipe (<10 personnes), priorisation des tâches  | OS, virtualisation (linux debian & redhat, vmware, proxmox, k8s, docker), devops (git, gitlab, ansible),  programmation (VBA excel - avancé, shell, python - intermédiaire)
 Rédaction plan de test, validation produit et automatisation des essais, gestion des anomalies | mise en place des KPI et outils de suivi pour la remontée d'information | redmine, JIRA
 
