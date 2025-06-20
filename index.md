@@ -135,7 +135,9 @@ __Science:__ Astrophysics, environment, and energy recovery
 __Sports:__ Gravel cycling, running
 
 __Associations:__
-`2020-2025`: Municipal councilor in Cadours
+
+`2020-present`: Municipal councilor in Cadours
+
 `2015-2017`: Treasurer at the Nid d'Anges daycare center, Cadours
 
 <!-- ### Footer
