@@ -3,7 +3,7 @@ layout: CV
 title: Vincent Hamoniaux
 ---
 # Vincent HAMONIAUX
-## Ingénieur système aéronautique et spatial
+## Aeronautic & Space System Engineer
 
 
 <div id="webaddress">
@@ -11,135 +11,133 @@ title: Vincent Hamoniaux
 | <a href="https://fr.linkedin.com/in/vincent-hamoniaux-a54255112">LinkedIn</a>
 </div>
 <div id="perso">
-Tél: 06 64 17 19 29 | Les Cabanes 31480 CADOURS | Marié, 2 enfants
+Tél: 06 64 17 19 29 | Lieu-dit Les Cabanes 31480 CADOURS | Marié, 2 enfants
 </div>
 
-### Actuellement : En poste à Thales Alenia Space
+### Currently: Working at Thales Alenia Space
 
 ---
-###  Personnalité
+### Personality
 
-- __adaptabilité et curiosité technique__
-- sens du service, __facilitateur__
-- goût du travail en équipe
-
----
-### Compétences
-
-__Cycle en V, Agile, Safe__        | __Coordination__   | __Environnement et outils__ 
- ------------- | ------------- | ------------- 
- Formalisation besoin utilisateur, écriture des exigences système/composant | planning projet, définition des activités et des responsabilités inter-équipes, mise en place du PMP | suite office, MS project, Ganttproject 
- Design en MBSE de systèmes complexes, définition des interfaces externes et internes, traçabilité LLR/fonctions/tests | Préparation revues projet (PDR, CDR, FQR, SQR, SAR) |  Capella, Reqtify, Visio, Doors, powerpoint
- Coordination développement d'infrastructures et applicatifs | définition des features/US, coordination d'équipe (<10 personnes), priorisation des tâches  | OS, virtualisation (linux debian & redhat, vmware, proxmox, k8s, docker), devops (git, gitlab, ansible),  programmation (VBA excel - avancé, shell, python - intermédiaire)
-Rédaction plan de test, validation produit et automatisation des essais, gestion des anomalies | mise en place des KPI et outils de suivi pour la remontée d'information | redmine, JIRA
-
-__Langues:__ français (maternel), anglais (confirmé), espagnol (confirmé)
+- Adaptability and technical curiosity
+- Service-oriented, facilitator
+- Teamwork oriented
 
 ---
-### Expériences professionnelles
+### Skills
 
-`01/2024 - Aujourd'hui`
-__THALES ALENIA SPACE__, Toulouse 31
+V-cycle | Coordination | Environment and tools
+------------- | ------------- | -------------
+Formalization of user needs, writing system/component requirements | Project planning, definition of inter-team activities and responsibilities, implementation of the PMP | Office suite, MS Project, Gantt Project
+Design of complex systems using MBSE, definition of external and internal interfaces, LLR traceability, functions, testing | Preparation of preliminary and critical design reviews (PDR, CDR) | Visio, Doors, PowerPoint
+Coordination of infrastructure and application development | Definition of sprints, team coordination (<10 people), task prioritization | OS, virtualization (Linux, Debian & Redhat, VMware, Proxmox, K8s, Docker), DevOps (Git, Gitlab, Ansible), programming (VBA, Excel - advanced, Shell, Python - intermediate)
+Test plan writing, product validation and test automation, defect management | Implementation of KPIs and tracking tools for feedback | Redmine, JIRA
 
-__Architecte segment Galileo GMS__ sur le projet G2GIOV de dévelopement, en SaFe, du Ground Mission Segment pour la phase IOV des satellites 2nde Generation
-- Spécification du segment via HLR+LLR en réponse aux exigences ESA (Doors)
-- Modélisation fonctionnelle via Capella et traçabilité aux exigences via Reqtify
-- Formalisation des interfaces externes (Jira) et internes (Capella, Doors)
-- Scrum master pour l'équipe Design
+Languages: French (native), English (advanced), Spanish (advanced)
 
-`03/2019 - 12/2023`
-__SII pour THALES ALENIA SPACE => THALES ALENIA SPACE (01/2022)__, Toulouse 31, AMOA ex-situ, in-situ
+---
+### Professional Experience
 
-__Responsabilité technique (MCO et évolutions V2) du TSP__, Time Service Provider, fournissant la synchronisation du temps UTC au segment de mission GMS
-  - Rédaction des propositions techniques d'évolution
-  - Mise à jour de la spécification et du design de l'infrastructure
-  - Coordination des activités de développement réalisés par les partenaires (SII, AIZOON)
-  - Maintenance L2 = Gestion des anomalies (Anomaly Report) remontées par les opérateurs sur site
-  - Participation aux ARB (Anomaly Report Board) avec le client SPO+EUSPA (ex GSA)+TPZ
-  - Analyse des AR au niveau 2 (L2), cascade vers les partenaires pour analyse niveau 3
-  - Coordination des correctifs à apporter (du dév jusqu'au déploiement/application patch sur site)
-  - Mise à jour et livraison du Progress Report mensuel (statut contractuel, KPI, gestion de configuration des
-éléments TSP)
+`January 2024 - Present`
+THALES ALENIA SPACE, Toulouse 31
 
-`12/2017 - Aujourd'hui`
-__SII pour THALES ALENIA SPACE__, Toulouse 31, forfait ex-situ
+Galileo GMS segment architect on the G2GIOV project, developing, in SaFe, the Ground Mission Segment for the IOV phase of 2nd Generation satellites.
+- ESA customer requirements analysis and flowdown to Segment HLR/LLR specification (Doors)
+- Functional modeling (Capella) and traceability to requirements and related epics/capbilities (Reqtify)
+- External and internal interfaces definition
+- Scrum master of the segment design team
 
-Projet CCSL de développement du produit CROSSFIT de __déploiement automatique d'infrastructure sécurisée__
-  - participation à la spécification en co-ingénierie avec le client et maquettage pour choix des COTS
-  - coordination du développement (6 pers), développement des fonctions de déploiement de la configuration (ansible + python)
-  - support validation usine et training utilisateurs
+`March 2019 - December 2023`
+SII for THALES ALENIA SPACE => THALES ALENIA SPACE (01/2022)__, Toulouse 31, Ex-situ, In-situ Project Management
+
+__Technical responsibility (MCO and V2 upgrades) of the TSP__, Time Service Provider, providing UTC time synchronization to the GMS mission segment
+- Technical proposals writing for the infrastructure evolutions
+- Updating the infrastructure specification and design
+- Coordination of development activities carried out by partners (SII, AIZOON)
+- L2 Maintenance = Management of anomalies (Anomaly Reports) reported by on-site operators
+- Focal point on ARBs (Anomaly Report Boards) in front of SPO+EUSPA customers 
+- Analysis of ARs at level 2 (L2), cascade to partners for level 3 analysis
+- Coordination of corrective actions (from development to deployment/patch application on-site)
+- Updating and delivering the monthly Progress Report (contractual status, KPIs, configuration management of elements) TSP)
+
+`12/2017 - 02/2019`
+__SII for THALES ALENIA SPACE__, Toulouse 31, ex-site contract
+
+CCSL project to develop the XFIT product for __automatic deployment of secure infrastructure__
+- Participation in the specification process through co-engineering with the client and mock-up for COTS selection
+- Development coordination (6 people), development of configuration deployment functions (Ansible + Python)
+- Factory validation support and user training
 
 `01/2017 - 11/2017`
-__SII pour THALES ALENIA SPACE__, Toulouse 31, forfait ex-situ
+__SII for THALES ALENIA SPACE__, Toulouse 31, ex-site contract
 
-Projet GSOP de __développement du Time Service Provider TSP V1 pour Galileo__
-  - définition de l'architecture système (design & interface) en interaction avec les équipes de dév
-  - coordination des activités de développement composant et infrastructure (9 pers)
-  - Préparation recette usine, suivi validation perfos et intégration dans les Galileo Control Centers (Fucino et Oberpfaffenhofen)
+GSOP project to develop the TSP V1 __Time Service Provider for Galileo__
+- Definition of the system architecture (design & interface) in collaboration with the development teams
+- Coordination of component and infrastructure development activities (9 people)
+- Preparation of factory acceptance testing, performance validation monitoring, and integration into Galileo Control Centers (Fucino and Oberpfaffenhofen)
 
-`02/2015 - 12/2016`
-__SII pour THALES ALENIA SPACE__, Toulouse 31, AMOA ex-situ
+`February 2015 - December 2016`
+SII for THALES ALENIA SPACE, Toulouse 31, ex-situ project management
 
-Projet européen H2020 DEMETRA - __développement d'un démonstrateur de services de temps basé sur Galileo__
-  - responsable Core Infrastructure: définition de l'architecture système (design & interface), coordination des développements réalisés par les partenaires, suivi de l'intégration du démonstrateur et validation pour l'acceptance système par la GSA
-  - promotion du projet sur [facebook](https://www.facebook.com/demetratime), développement [appli android](https://play.google.com/store/apps/details?id=eu.demetratime.demetra) et [Vimeo](https://vimeo.com/185464126)
+European H2020 DEMETRA project - Development of a __Galileo-based time services demonstrator__
+- Core Infrastructure Manager: Definition of the system architecture (design & interface), coordination of developments carried out by partners, monitoring of demonstrator integration, and validation for system acceptance by the GSA
+- Project promotion on Facebook (https://www.facebook.com/demetratime), development of the Android app (https://play.google.com/store/apps/details?id=eu.demetratime.demetra) and Vimeo (https://vimeo.com/185464126)
 
-`04/2008 - 12/2014`
-__SII pour AIRBUS__, Toulouse 31, plateau in-situ
+`April 2008 - 12/2014`
+__SII for AIRBUS__, Toulouse 31, on-site platform
 
-Développement du système __ATA27-00 Commandes de vol et Pilote Automatique__ pour l'A350XWB
-  - coordination V&V transverse: mise en place stratégie de test et KPI, suivi avancement hebdo et écriture du V&V Summary système (ARP4754)
-  - validation AFS: automatisation et exécution des procédures de tests (OCASIME), écriture du rapport de tests et des faits techniques associés (JTE)
-  - point focal ICD: définition des interfaces fonctionnelles multi-systèmes et calculateurs (process SID, Albatros), développement d'outils de contrôle (macros VBA)
+Development of the __ATA27-00 Flight Controls and Autopilot__ system for the A350XWB
+- Cross-functional V&V coordination: implementation of test strategy and KPIs, weekly progress monitoring, and writing of the system V&V Summary (ARP4754)
+- AFS validation: automation and execution of test procedures (OCASIME), writing of the test report and associated technical facts (JTE)
+- ICD focal point: definition of multi-system and computer functional interfaces (SID process, Albatros), development of control tools (VBA macros)
 
 `07/2007 - 03/2008`
-__B2i pour SAGEM Défense__, Eragny 95, plateau in-situ
+__B2i for SAGEM Défense__, Eragny 95, on-site platform
 
-Projet: développement logiciel embarqué des GADIRS pour l’A400M
-  - spécification des surveillances fonctions inertielles (HLR dans Doors), suivi et support sur les phases avales (LLR, codage C++)
-  - rédaction du dossier de justification de l’architecture fonctionnelle du logiciel
+Project: embedded software development of GADIRS for the A400M
+- specification of inertial function monitoring (HLR in Doors), monitoring and support for downstream phases (LLR, C++ coding)
+- drafting of the software functional architecture justification file
 
 `10/2006 - 06/2007`
-__B2i pour MESSIER BUGATTI__, Vélizy 78, plateau in-situ
+__B2i for MESSIER BUGATTI__, Vélizy 78, on-site platform
 
-Projet: développement logiciel embarqué en SAO et V&V du système ATA32 BSCS pour les A320, A340 500/600 et 787 
-  - application des MOD sur les logiques SAO, rédaction des documents de traçabilité
-  - Mise en place et exécution des essais sur baie de simulation, analyse et rédaction des rapports d’essais
+Project: embedded software development in SAO and V&V of the ATA32 BSCS system for the A320, A340 500/600 and 787
+- Application of MODs to SAO logic, drafting of traceability documents
+- Implementation and execution of tests on a simulation bay, analysis and drafting of test reports
 
 `04/2005 - 09/2006`
-__B2i pour RENAULT__, Lardy 91 et Valladolid Esp, plateau in-situ
+__B2i for RENAULT__, Lardy 91 and Valladolid Esp, on-site platform
 
-Projet: développement du contrôle moteur sur K9K DDS Step1
-  - intégration des spécifications métier, validation des évolutions logiciel, mise au point des calibrations de diagnostic
-  - industrialisation des logiciels et assistance pour la MAP, les usines et l’après-vente en développement et en série
-  - en Espagne, suivi de l’externalisation du projet et formation des nouveaux arrivants
+Project: Development of engine control on K9K DDS Step1
+- Integration of business specifications, validation of software upgrades, development of diagnostic calibrations
+- Industrialization of software and support for MAP, factories, and after-sales service during development and production
+- In Spain, monitoring of project outsourcing and training of newcomers
 
 ---
-### Formation
+### Education
 
 `2001-2004`
-__IPSA__, Kremlin-Bicêtre 94: diplôme d'ingénieur Expert en ingénierie des systèmes aéronautiques et spatiaux, spécialité Mécanique Energétique
+__IPSA__, Kremlin-Bicêtre 94: Engineering degree, Expert in Aeronautical and Space Systems Engineering, specializing in Mechanics Energy
 
 `1999-2001`
-__IUT Génie Thermique et Energie__, Ville d’Avray 92
+IUT Thermal Engineering and Energy, Ville d'Avray (92)
 
 `1999`
-Lycée Notre Dame des Marais, Fougères 35: Baccalauréat S, mention AB
+Lycée Notre Dame des Marais, Fougères (35): Baccalaureate in Science, with honors AB
 
 ---
-### Centres d'intérêt
+### Interests
 
-__Passe-temps:__ informatique (domotique, linux, OSS), astronomie, mécanique auto, bricolage, lecture
+__Hobbies:__ Computer science (home automation, Linux, OSS), astronomy, auto mechanics, DIY, reading
 
-__Sciences:__ astrophysique, environnement et récupération de l’énergie
+__Science:__ Astrophysics, environment, and energy recovery
 
-__Sport:__ vélo gravel, course à pied.
+__Sports:__ Gravel cycling, running
 
 __Associations:__
-
-`2020-2025` conseiller municipal à Cadours  
-`2015-2017` trésorier au sein de la crèche Nid d'anges, Cadours
+`2020-2025`: Municipal councilor in Cadours
+`2015-2017`: Treasurer at the Nid d'Anges daycare center, Cadours
 
 <!-- ### Footer
 
-Last updated: June 2025 -->
+Last updated: June 20 -->
